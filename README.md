@@ -1,4 +1,6 @@
-dotfiles
-========
+Dotfiles
+========================================
 
-My dotfiles :) 
+My dotfiles and Ruby scripts:) 
+
+========================================
